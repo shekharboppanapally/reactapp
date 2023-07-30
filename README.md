@@ -1,5 +1,5 @@
 # Open this React App here
-Click here [https://shekharboppanapally.github.io/reactapp/]
+[Click here](https://shekharboppanapally.github.io/reactapp/)
 
 # Getting Started with Create React App
 
